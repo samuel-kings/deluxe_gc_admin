@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375953378842",
+    "project_id": "deluxe-gc",
+    "storage_bucket": "deluxe-gc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375953378842:android:0e82e836aa5dbc5bc18ba3",
+        "android_client_info": {
+          "package_name": "com.tohaj.deluxe_gc_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFfruEj0SXmxVHXOO6yCv6t3PRHT3LeY4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
